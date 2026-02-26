@@ -1,5 +1,5 @@
 # CS-340
-Albert Waterman /n
+#Albert Waterman
 I wrote maintainable, adaptable programs by separating responsibilities and avoiding repetition. In Project One, I created a reusable CRUD Python module that handled all database operations inside a 
 single AnimalShelter class instead of mixing database logic directly into the dashboard. That structure made the code cleaner, easier to debug, and easier to expand later. When I connected the dashboard widgets in 
 In Project Two, I reused the same module without rewriting queries, improving consistency and reducing errors. In the future, I could reuse this module for other MongoDB-backed applications, APIs, or 
